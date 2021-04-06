@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.Thumbnail{
+    margin-left: 37%;
+    margin-right: 37%;
+    border-style: groove;
+    border-color: rgb(233, 232, 232);
+}
+
+img{
+    border-radius: 50%;
+}
+
+footer{
+    border-style: hidden;
+}
+
+body{
+    border-style: ridge;
+    background-color: linen;
+}
